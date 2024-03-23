@@ -26,7 +26,7 @@ Syntax selengkapnya dapat dilihat pada file berikut: [Data Preprocessing.ipynb](
 
 
 **Business Insight:**
-1. Terjadi tren peningkatan jumlah booking dari bulan Maret hingga Juli pada periode tahun 2015-2017.</br>
+1. Terjadi tren peningkatan jumlah booking dari bulan Maret hingga Juli pada periode tahun 2017-2019.</br>
    Hal ini diasumsikan karena bertepatan dengan musim semi dan musim panas di Portugal, yang mana hal itu merupakan waktu yang populer bagi para turis untuk berkunjung. Selain itu, di rentang waktu ini juga bertepatan dengan hari libur sekolah, yaitu *spring break* dan *summer vacation*, di beberapa negara.
 2. Pada bulan Agustus hingga September pengunjung lebih memilih Resort Hotel dibandingkan City Hotel. </br>
 Hal ini diasumsikan karena bertepatan dengan puncak musim panas dimana pengunjung lebih ingin untuk menikmati suasana resort seperti pesisir pantai.
