@@ -46,7 +46,7 @@ Walaupun pengunjung Resort Hotel dengan _Stay Duration_ 50-59 hari terlihat memi
 
 Syntax selengkapnya dapat dilihat pada file berikut: [Correlation between Stay Duration and Cancellation Rates.ipynb](https://github.com/ramlanapriyansyah/Investigate_Business_Hotel_using_Data_Visualization_/blob/main/Correlation%20between%20Stay%20Duration%20and%20Cancellation%20Rates.ipynb)
 
-# Analisis Hubungan antara Lama Waktu Pemesanan (_Lead Time_) dan Tingkat Pembatalan (_Cancellation Rates_)
+# Analisis Hubungan antara Jarak Waktu Pemesanan (_Lead Time_) dan Tingkat Pembatalan (_Cancellation Rates_)
 <img width="900" alt="image" src="https://github.com/ramlanapriyansyah/Investigate_Business_Hotel_using_Data_Visualization_/assets/135192484/9c3f8d83-cc53-4b12-a0e4-8ffef37089c7">
 
 **Business Insight:** </br>
