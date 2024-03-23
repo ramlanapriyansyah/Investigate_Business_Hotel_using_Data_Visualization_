@@ -44,7 +44,7 @@ Dari visualisasi di atas dapat disimpulkan bahwa **tidak ada hubungan linear ant
 
 Walaupun pengunjung Resort Hotel dengan _Stay Duration_ 50-59 hari terlihat memiliki _Cancellation Rates_ yang tinggi, namun jumlah pengunjung dengan lama menginap sebanyak ini hanya berjumlah 4 orang sehingga belum bisa dikatakan valid.
 
-Syntax selengkapnya dapat dilihat pada file berikut: [Correlation between Stay Duration and Cancellation Rates.ipynb](https://github.com/ramlanapriyansyah/Investigate_Business_Hotel_using_Data_Visualization_/blob/main/Impact%20Analysis%20of%20Stay%20Duration.ipynb)
+Syntax selengkapnya dapat dilihat pada file berikut: [Correlation between Stay Duration and Cancellation Rates.ipynb](https://github.com/ramlanapriyansyah/Investigate_Business_Hotel_using_Data_Visualization_/blob/main/Correlation%20between%20Stay%20Duration%20and%20Cancellation%20Rates.ipynb)
 
 # Analisis Hubungan antara Lama Waktu Pemesanan (_Lead Time_) dan Tingkat Pembatalan (_Cancellation Rates_)
 <img width="900" alt="image" src="https://github.com/ramlanapriyansyah/Investigate_Business_Hotel_using_Data_Visualization_/assets/135192484/9c3f8d83-cc53-4b12-a0e4-8ffef37089c7">
@@ -56,7 +56,7 @@ Artinya semakin lama jarak waktu pemesanan, semakin tinggi pula tingkat pembatal
 
 Walau Resort Hotel memiliki _Cancellation Rates_ 0% pada _Lead Time_ 19-21 bulan, total booking yang terjadi dengan jarak waktu pemesanan ini hanya sebanyak 50 booking sehingga diasumsikan nilai ini belum bisa dikatakan valid.
 
-Syntax selengkapnya dapat dilihat pada file berikut: [Correlation between Lead Time and Cancellation Rates.ipynb](https://github.com/ramlanapriyansyah/Investigate_Business_Hotel_using_Data_Visualization_/blob/main/Impact%20Analysis%20Of%20Lead%20Time%20On%20Cancellation%20Rate.ipynb)
+Syntax selengkapnya dapat dilihat pada file berikut: [Correlation between Lead Time and Cancellation Rates.ipynb](https://github.com/ramlanapriyansyah/Investigate_Business_Hotel_using_Data_Visualization_/blob/main/Correlation%20between%20Lead%20Time%20and%20Cancellation%20Rates.ipynb)
 
 
 
